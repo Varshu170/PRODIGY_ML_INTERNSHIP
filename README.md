@@ -9,7 +9,7 @@
  ###### 7.Calculate and report the R-squared (R²) value.
  ###### 8.Determine and report the model's coefficients.
  ###### 9.Determine and report the model's intercept.
-## Task 2: K-means Clustering Algorithm for Grouping Retail Store Customers Based on Purchase History
+## Task 2: K means clustering for grouping the customers of a retail store.
  ###### 1.Load the dataset containing customers' purchase history.
  ###### 2.Preprocess the data for clustering (e.g., normalization).
  ###### 3.Apply the K-means clustering algorithm.
